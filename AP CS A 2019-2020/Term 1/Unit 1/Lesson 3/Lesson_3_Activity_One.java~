@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+class Lesson_3_Activity_One{ 
+  public static void main(String[] args) { 
+    
+    System.out.println(" What is your name? ");
+    String n = scan.nextline();
+    System.out.println("Hello" + n + "Nice to meet you");
+    
+  }
+}
+    
